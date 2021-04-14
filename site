@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<header>
+	<link rel="stylesheet" href="iulia.css">
+  <h1>Articole de imbracaminte</h1>
+  <p>Postat de Iulia Clotan</p>
+</header>
+<head>
+<link rel="css" href="iulia.css">
+</head>
+
+<ul>
+  <li><a href="">Home</a></li>
+  <li><a href="">Formular</a></li>
+  <li><a href="">CV</a></li>
+  
+</ul>
+
+<b>ASOS plc (/ˈeɪsɒs/ AY-soss)[3] is a British online fashion and cosmetic retailer. The company was founded in 2000 in London, primarily aimed at young adults.[4] The website sells over 850 brands as well as its own range of clothing and accessories, and ships to all 196 countries from fulfilment centres in the UK, USA and Europe.[4]
+
+ASOS originally stood for AsSeenOnScreen[5] with the tagline "Buy what you see on film and TV"[6] because it exclusively sold imitations of clothing from those mediums (for example, Brad Pitt's red leather jacket from the 1999 film Fight Club). However, it no longer has that meaning and is generally stylised as an uppercase acronym, although the company's logo represents it in lower case.
+
+ASOS' headquarters are in Camden Town, at Greater London House with additional offices in Berlin and Birmingham. As of 2013, their main fulfilment centre is in Barnsley, South Yorkshire, where they employ 3,500 workers.[7] The customer care department is based in Leavesden, near Watford, in southwest Hertfordshire.[8]
+
+The Danish company Bestseller A/S, owned by the business magnate Anders Holch Povlsen, is ASOS' largest stakeholder, with a 26% share.[2]
+
+In January 2021 ASOS plc submitted a bid to Deloitte on 18 January to acquire the Topshop, Topman, Miss Selfridge and HIIT brands from the failed Arcadia Group. On 1 February it was announced that ASOS had been successful, bidding against companies including Frasers Group and consortiums of Next and Davidson Kempner, and Authentic Brands and JD Sports. The deal finalised on 4 February 2021 with the brands, £300 million of stock and 300 Arcadia staff members transferring to ASOS. The associated stores were not included in the sale and will be closed.</b>
+<div class="row">
+  <div class="column">
+    <img src="Img/asos.jpg" alt="Snow" style="width:200">
+  </div>
+  <div class="column">
+    <img src="asos1" alt="Forest" style="width:200">
+  </div>
+</div>
+<p>
+<ul>
+<li>Articole:</li>
+  <li>Tricouri</li>
+  <li>Jeans</li>
+  <li>Bluze</li>
+</ul>
+</p>
+<footer>
+  <p>Autor:Iulia Clotan</p>
+  <p><a href="http://csac.ulbsibiu.ro/">link</a></p>
+</footer>
+</body>
+</html>
